@@ -1,0 +1,16 @@
+{
+  "name": "dunnhumbyTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --browser chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.5.0",
+    "faker": "^5.1.0"
+  }
+}

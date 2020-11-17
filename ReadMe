@@ -1,0 +1,11 @@
+*** Getting started ***
+Go to your terminal
+
+To get the node_modules
+ npm install
+
+To Run the test
+ npm test
+
+ Note: Test GUI very unstable with changing (dynamic) elements! Test pass and fail at will without
+       any changes to code, hence assertions prove daunting!
